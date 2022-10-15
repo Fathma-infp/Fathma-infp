@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Fathma-infp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Fathma-infp/Fathma-infp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi! 
+## I’m Fathma-infp
+> I’m interested in Data Analytics and gathering information statistically.
+> I’m currently learning Data analysis and basic programming and coding skills.
+>  I’m looking to collaborate on various projects that will enable me to challenge my analytical skills.
+>   You can alternatively reach me on email: fatmayusuf371@gmail.com.
